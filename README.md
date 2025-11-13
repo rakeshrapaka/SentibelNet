@@ -1,4 +1,4 @@
-Week Focus
+Week -1 Focus
 
 Understand what a NIDS does and why it matters in cybersecurity.
 
